@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d("<>", "master 1");
-        Log.d("<>", "develop 6 on website");
+        Log.d("<>", "develop 7 on website");
 
 
         Log.d("<>", "feature1 done -->  feature1 fixed");
