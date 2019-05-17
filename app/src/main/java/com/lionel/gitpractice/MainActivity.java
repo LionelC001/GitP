@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("<>", "master 1");
         Log.d("<>", "develop 1");
+
+
+        Log.d("<>", "feature1 done");
     }
 }
