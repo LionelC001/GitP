@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("<>", "feature1 done");
         Log.d("<>", "feature1.1.1 done");
 
-        Log.d("<>", "feature2 done");
+        Log.d("<>", "feature2.a done");
         Log.d("<>", "feature2.1 done");
     }
 }
