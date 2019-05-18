@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("<>", "feature3 done --> feature3 fixed");
 
-        Log.d("<>", "feature 4 done");
+        Log.d("<>", "feature 4 done --> feature4 fixed");
         Log.d("<>", "feature 4.1 done");
         
     }
